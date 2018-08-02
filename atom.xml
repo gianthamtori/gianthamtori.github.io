@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gianthamtori.github.io/"/>
-  <updated>2018-08-02T10:21:45.840Z</updated>
+  <updated>2018-08-02T10:27:59.807Z</updated>
   <id>https://gianthamtori.github.io/</id>
   
   <author>
@@ -18,18 +18,39 @@
   
   <entry>
     <title>보노보노 바보</title>
-    <link href="https://gianthamtori.github.io/2018/08/02/%EB%B0%94%EB%B3%B4/"/>
-    <id>https://gianthamtori.github.io/2018/08/02/바보/</id>
+    <link href="https://gianthamtori.github.io/2018/08/02/newpost1/"/>
+    <id>https://gianthamtori.github.io/2018/08/02/newpost1/</id>
     <published>2018-08-02T10:07:07.000Z</published>
-    <updated>2018-08-02T10:21:45.840Z</updated>
+    <updated>2018-08-02T10:27:59.807Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="햄토리-Hamtori"><a href="#햄토리-Hamtori" class="headerlink" title="햄토리(Hamtori)"></a>햄토리(Hamtori)</h1><p>이놈의 블로그 한 번 만들기 겁나 어렵네<br>힘들어 죽겠다</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="햄토리-Hamtori"><a href="#햄토리-Hamtori" class="headerlink" title="햄토리(Hamtori)"></a>햄토리(Hamtori)</h2><p>이놈의 블로그 한 번 만들기 겁나 어렵네<br>힘들어 죽겠다</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;햄토리-Hamtori&quot;&gt;&lt;a href=&quot;#햄토리-Hamtori&quot; class=&quot;headerlink&quot; title=&quot;햄토리(Hamtori)&quot;&gt;&lt;/a&gt;햄토리(Hamtori)&lt;/h1&gt;&lt;p&gt;이놈의 블로그 한 번 만들기 겁나 어렵네&lt;br&gt;힘들어 죽겠
+        &lt;h2 id=&quot;햄토리-Hamtori&quot;&gt;&lt;a href=&quot;#햄토리-Hamtori&quot; class=&quot;headerlink&quot; title=&quot;햄토리(Hamtori)&quot;&gt;&lt;/a&gt;햄토리(Hamtori)&lt;/h2&gt;&lt;p&gt;이놈의 블로그 한 번 만들기 겁나 어렵네&lt;br&gt;힘들어 죽겠
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://gianthamtori.github.io/2018/08/02/hello-world/"/>
+    <id>https://gianthamtori.github.io/2018/08/02/hello-world/</id>
+    <published>2018-08-02T06:10:15.971Z</published>
+    <updated>2018-08-02T06:10:15.972Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
       
     
     </summary>
